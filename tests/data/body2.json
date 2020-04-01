@@ -1,0 +1,80 @@
+{
+  "core" : {
+      "title" : "Will Belarus Be the Next Ukraine?",
+      "content_url" : "https://www.foreignaffairs.com/articles/belarus/2020-02-05/will-belarus-be-next-ukraine",
+      "amp_url" : "https://www.foreignaffairs.com/articles/belarus/2020-02-05/will-belarus-be-next-ukraine?amp",
+      "content_type" : "article",
+      "publication_date" : "2020-02-07T20:32:57.000Z",
+      "image" : "https://cdn.foreignaffairs.com/sites/default/files/styles/large-crop-landscape/public/images/articles/2020/02/05/rtx28l40.jpg?itok=51DDeT4N",
+      "language" : "en",
+      "publisher" : "Foreign Affairs",
+      "content_minutes" : 1
+  },
+  "url_info" : {
+      "url_slugs" : [ 
+          "foreignaffairs.com", 
+          "articles", 
+          "belarus", 
+          "2020-02-05", 
+          "will-belarus-be-next-ukraine"
+      ],
+      "url_domain" : "foreignaffairs.com",
+      "url_identifier" : "foreignaffairs.com/articles/belarus",
+      "unique_slug" : "will-belarus-be-next-ukraine",
+      "is_content" : true,
+      "content_type" : "article",
+      "date" : {}
+  },
+  "word_arrays" : {
+      "single_lower" : {
+          "frequent" : []
+      },
+      "single_acronym" : {
+          "all" : [],
+          "frequent" : []
+      },
+      "single_capital" : {
+          "all" : [ 
+              "russia", 
+              "ukraine", 
+              "belarus", 
+              "belarusian", 
+              "alexander", 
+              "lukashenko", 
+              "moscow", 
+              "russian", 
+              "vladimir", 
+              "putin", 
+              "union", 
+              "treaty", 
+              "kremlin"
+          ],
+          "frequent" : []
+      },
+      "single_title" : {
+          "all" : [ 
+              "belarus", 
+              "next", 
+              "ukraine"
+          ],
+          "frequent" : []
+      },
+      "multi_capital" : {
+          "all" : [ 
+              "union treaty", 
+              "vladimir putin", 
+              "alexander lukashenko"
+          ],
+          "frequent" : []
+      },
+      "multi_title" : {
+          "all" : [],
+          "frequent" : []
+      }
+  },
+  "scores" : {
+      "objective" : 0.189,
+      "curated" : 0.886,
+      "combined" : 0.167
+  }
+}

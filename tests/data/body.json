@@ -1,0 +1,143 @@
+{
+  "core": {
+    "title": "Ending America’s Endless War",
+    "content_url": "https://www.foreignaffairs.com/articles/2019-06-24/ending-americas-endless-war",
+    "amp_url": "https://www.foreignaffairs.com/articles/2019-06-24/ending-americas-endless-war?amp",
+    "content_type": "article",
+    "publication_date": "2019-06-25T21:15:43.000Z",
+    "image": "https://cdn.foreignaffairs.com/sites/default/files/styles/large-crop-landscape/public/public-assets/images/articles/2019/06/21/bernie.jpg?itok=irwQp6ds",
+    "language": "en",
+    "publisher": "Foreign Affairs",
+    "content_minutes": 9
+  },
+  "url_info" : {
+    "url_slugs" : [ 
+        "foreignaffairs.com", 
+        "articles", 
+        "2019-06-24", 
+        "ending-americas-endless-war"
+    ],
+    "url_domain" : "foreignaffairs.com",
+    "url_identifier" : "foreignaffairs.com/articles",
+    "unique_slug" : "ending-americas-endless-war",
+    "is_content" : true,
+    "content_type" : "article",
+    "date" : {}
+  },
+  "scores": { "objective": 0.7, "curated": 0.157, "combined": 0.11 },
+  "word_arrays" : {
+    "single_lower" : {
+        "frequent" : []
+    },
+    "single_acronym" : {
+        "all" : [],
+        "frequent" : []
+    },
+    "single_capital" : {
+        "all" : [ 
+            "iran", 
+            "earlier", 
+            "donald", 
+            "trump", 
+            "middle", 
+            "east", 
+            "tehran", 
+            "pentagon", 
+            "white", 
+            "house", 
+            "iraq", 
+            "syria", 
+            "israel", 
+            "persian", 
+            "gulf", 
+            "afghanistan", 
+            "instead", 
+            "george", 
+            "bush", 
+            "september", 
+            "withdrawing", 
+            "orienting", 
+            "addressing", 
+            "terrorism", 
+            "costs", 
+            "war", 
+            "project", 
+            "brown", 
+            "university", 
+            "american", 
+            "factoring", 
+            "center", 
+            "strategic", 
+            "international", 
+            "studies", 
+            "sunni", 
+            "islamic", 
+            "november", 
+            "competitors", 
+            "china", 
+            "russia", 
+            "xi", 
+            "jinping", 
+            "vladimir", 
+            "putin", 
+            "moscow", 
+            "soviet", 
+            "europe", 
+            "north", 
+            "america", 
+            "russian", 
+            "endless", 
+            "multinational", 
+            "too", 
+            "muslim", 
+            "americans", 
+            "nations", 
+            "intergovernmental", 
+            "panel", 
+            "climate", 
+            "change", 
+            "nor"
+        ],
+        "frequent" : [ 
+            "war"
+        ]
+    },
+    "single_title" : {
+        "all" : [ 
+            "ending", 
+            "america", 
+            "endless", 
+            "war"
+        ],
+        "frequent" : [ 
+            "war"
+        ]
+    },
+    "multi_capital" : {
+        "all" : [ 
+            "middle east", 
+            "climate change", 
+            "united nations intergovernmental panel", 
+            "muslim american", 
+            "north america", 
+            "vladimir putin", 
+            "xi jinping", 
+            "sunni islamic", 
+            "international studies", 
+            "center for strategic", 
+            "brown university", 
+            "costs of war project", 
+            "persian gulf", 
+            "white house", 
+            "donald trump"
+        ],
+        "frequent" : [ 
+            "costs of war project"
+        ]
+    },
+    "multi_title" : {
+        "all" : [],
+        "frequent" : []
+    }
+  }
+}

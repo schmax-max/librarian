@@ -1,0 +1,47 @@
+{
+  "name": "orchestrator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "mon": "nodemon index.js",
+    "test": "nyc mocha tests/unit.test.js --exit",
+    "play": "nodemon play.js",
+    "pretest": "eslint --ignore-path .gitignore ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/register": "^7.8.3",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "eslint": "^6.8.0",
+    "grunt": "^1.0.4",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-eslint": "^22.0.0",
+    "grunt-mocha-test": "^0.13.3",
+    "mocha": "^7.0.0",
+    "nodemon": "^2.0.2",
+    "nyc": "^15.0.0"
+  },
+  "dependencies": {
+    "@hapi/joi": "^17.1.0",
+    "axios": "^0.19.1",
+    "body-parser": "^1.19.0",
+    "bugsnag": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.6.0",
+    "lodash": "^4.17.15",
+    "moment-timezone": "^0.5.27",
+    "mongoose": "^5.8.9",
+    "rootpath": "^0.1.2",
+    "unidecode": "^0.1.8",
+    "yaml": "^1.7.2"
+  }
+}

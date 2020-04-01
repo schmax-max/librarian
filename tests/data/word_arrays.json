@@ -1,0 +1,135 @@
+{
+    "single_lower" : {
+        "frequent" : [ 
+            "back"
+        ]
+    },
+    "single_acronym" : {
+        "all" : [],
+        "frequent" : []
+    },
+    "single_capital" : {
+        "all" : [ 
+            "january", 
+            "france", 
+            "francois", 
+            "hollande", 
+            "england", 
+            "david", 
+            "cameron", 
+            "british", 
+            "elysee", 
+            "palace", 
+            "french", 
+            "whatever", 
+            "daily", 
+            "telegraph", 
+            "christopher", 
+            "hope", 
+            "downing", 
+            "street", 
+            "mirror", 
+            "britain", 
+            "john", 
+            "major", 
+            "labour", 
+            "party", 
+            "ed", 
+            "miliband", 
+            "boris", 
+            "johnson", 
+            "prince", 
+            "harry", 
+            "meghan", 
+            "duke", 
+            "duchess", 
+            "sussex", 
+            "queen", 
+            "north", 
+            "america", 
+            "sussexs", 
+            "perhaps", 
+            "conservatives", 
+            "young", 
+            "ricky", 
+            "gervais", 
+            "golden", 
+            "globes", 
+            "hollywood", 
+            "london", 
+            "earth", 
+            "brits", 
+            "europe", 
+            "remember", 
+            "english", 
+            "except", 
+            "helen", 
+            "lewis", 
+            "sussexroyal", 
+            "climate", 
+            "mental", 
+            "none", 
+            "parliament", 
+            "head", 
+            "choosing", 
+            "once", 
+            "certainly", 
+            "paris", 
+            "china", 
+            "sunday", 
+            "submit", 
+            "tom", 
+            "mctague", 
+            "atlantic", 
+            "betting", 
+            "house", 
+            "inside", 
+            "election"
+        ],
+        "frequent" : [ 
+            "harry", 
+            "meghan"
+        ]
+    },
+    "single_title" : {
+        "all" : [ 
+            "hypocrisy", 
+            "harry", 
+            "meghan", 
+            "decision"
+        ],
+        "frequent" : [ 
+            "harry", 
+            "meghan"
+        ]
+    },
+    "multi_capital" : {
+        "all" : [ 
+            "betting the house", 
+            "tom mctague", 
+            "north america", 
+            "helen lewis", 
+            "golden globes", 
+            "ricky gervais", 
+            "duchess of sussex", 
+            "prince harry", 
+            "boris johnson", 
+            "david cameron", 
+            "ed miliband", 
+            "labour party", 
+            "john major", 
+            "daily mirror", 
+            "downing street", 
+            "the daily telegraph s christopher hope", 
+            "elysee palace", 
+            "francois hollande"
+        ],
+        "frequent" : [ 
+            "prince harry"
+        ]
+    },
+    "multi_title" : {
+        "all" : [],
+        "frequent" : []
+    }
+}

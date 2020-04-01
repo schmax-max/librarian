@@ -1,0 +1,20 @@
+{
+  "url_slugs" : [ 
+    "theatlantic.com", 
+    "international", 
+    "archive", 
+    "2020", 
+    "01", 
+    "prince-harry-meghan-markle-hypocrisy-royals", 
+    "604714"
+  ],
+  "url_domain" : "theatlantic.com",
+  "url_identifier" : "theatlantic.com/international/archive",
+  "unique_slug" : "prince-harry-meghan-markle-hypocrisy-royals",
+  "is_content" : true,
+  "date" : {
+    "year" : "2020",
+    "month" : "01",
+    "day" : ""
+  }
+}

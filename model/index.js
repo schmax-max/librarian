@@ -1,0 +1,6 @@
+exports.Allocation = require('./Allocation')
+exports.Area = require('./Area')
+exports.Category = require('./Category')
+exports.Identifier = require('./Identifier')
+exports.Library = require('./Library')
+exports.Structure = require('./Structure')
