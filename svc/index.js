@@ -1,23 +1,19 @@
-const {gateway} = require('./gateway')
-const {commander} = require('./commander')
-const {server} = require('./server')
+const { gateway } = require("./gateway");
+const { commander } = require("./commander");
+const { server } = require("./server");
 
+module.exports = { master };
 
-module.exports = {master}
-
-async function master (req) {
+async function master(req) {
   if (gateway(req)) {
-    if (req.params.trigger === 'server') {
-      return await server(req.body)
+    if (req.params.trigger === "server") {
+      return await server(req.body);
     } else {
-      return await commander(req.body)
+      return await commander(req.body);
     }
   } else {
-    return
+    consolelog({ body: req.body });
+    console.log("request to librarian not validated");
+    return;
   }
 }
-
-
-
-
-
